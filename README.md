@@ -5,7 +5,7 @@ Notes, build scripts, and associated files for the *Configuring BIG-IP LTM versi
 ## Lab VM RAM (GB)
 
 |Lab Number        |bigip1|bigip17|jump|jump2|traffic client|training server|
-|------------------|------|-------|----|-----|--------------|---------------|
+|------------------|-----:|------:|---:|----:|-------------:|--------------:|
 |LTM-C1A02-LoadBal |8     |8      |4   |     |              |0.5            |
 |LTM-C1A04-PrioGrp |8     |8      |4   |     |              |0.5            |
 |LTM-C1B05-VSPrec  |8     |8      |4   |     |              |0.5            |
@@ -32,7 +32,7 @@ Notes, build scripts, and associated files for the *Configuring BIG-IP LTM versi
 ## Lab Name, Duration (hr) and VLANs
 
 |Lab Number        |Lab Name                                                                         |Lab Duration|Lab Series|Mgmt|External|Internal|Internet|
-|------------------|---------------------------------------------------------------------------------|------------|----------|----|--------|--------|--------|
+|------------------|---------------------------------------------------------------------------------|-----------:|---------:|:--:|:------:|:------:|:------:|
 |LTM-C1A02-LoadBal |Hands-on Lab: Explore Load Balancing Behavior                                    |1           |100       |X   |X       |X       |        |
 |LTM-C1A04-PrioGrp |Hands-on Lab: Deploy Hot-Standby Servers in Local Traffic Pool                   |1           |120       |X   |X       |X       |        |
 |LTM-C1B05-VSPrec  |Hands-on Lab: Test Virtual Server Order of Precedence                            |1           |140       |X   |X       |X       |        |
