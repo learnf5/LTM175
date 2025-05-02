@@ -28,13 +28,13 @@ Notes, build scripts, and associated files for the *Configuring BIG-IP LTM versi
 |LTM175-C1A04-STANDBY   |Deploy Hot-Standby Servers in Local Traffic Pool                   |1           |120       |X   |X       |X       |
 |LTM175-C1B08-SANDWICH  |Test Virtual Server Order of Precedence **and**                    |1           |140       |X   |X       |X       |
 |                       |Deploy and Monitor a Firewall Sandwich Scenario                    |            |          |    |        |        |
-|LTM175-C1C06-SNAT      |Test SNAT Order of Precedence                                      |1           |140       |X   |X       |X       |
+|LTM175-C1C06-SNAT      |Test SNAT Order of Precedence                                      |1           |160       |X   |X       |X       |
 |LTM175-C2B13-MONITOR   |Explore Local Traffic Health Monitors                              |1           |200       |X   |X       |X       |
-|LTM175-C2C04-HTTP      |Deploy a Custom HTTP Monitor and Explore Using Regular Expressions |1           |200       |X   |X       |X       |
+|LTM175-C2C04-HTTP      |Deploy a Custom HTTP Monitor and Explore Using Regular Expressions |1           |220       |X   |X       |X       |
 |                       |**and** Deploy Custom FTP Application Check Monitor                |            |          |    |        |        |
 |LTM175-C3C02-XFF       |Configure an HTTP Profile to Insert an X-Forwarded-For (XFF) Header|1           |300       |X   |X       |X       |
 |                       |**and** Observe HTTP Compression Offload Behavior                  |            |          |    |        |        |
-|LTM175-C3C09-STREAM    |Modify Payload Content Using the Stream Profile **and**            |1           |300       |X   |X       |X       |
+|LTM175-C3C09-STREAM    |Modify Payload Content Using the Stream Profile **and**            |1           |320       |X   |X       |X       |
 |                       |Load Balance an FTP Application                                    |            |          |    |        |        |
 |LTM175-C3D02-MATCH     |Observe Persistence Match Across Options **and**                   |1           |340       |X   |X       |X       |
 |                       |Explore Cookie Persistence Behavior **and**                        |            |          |    |        |        |
@@ -45,7 +45,7 @@ Notes, build scripts, and associated files for the *Configuring BIG-IP LTM versi
 |LTM175-C4C03-SYN       |Mitigate a SYN Flood Attack with the BIG-IP LTM SYN Check Feature  |1           |440       |X   |X       |X       |
 |                       |**and** Explore Packet Filter Behavior **and**                     |            |          |    |        |        |
 |                       |Mitigate a Layer 7 DoS Attack Using a BIG-IP LTM Eviction Policy   |            |          |    |        |        |
-|LTM175-C4C09-HEADER    |Secure HTTP Headers Using iRules and Local Traffic Policies        |1           |440       |X   |X       |X       |
+|LTM175-C4C09-HEADER    |Secure HTTP Headers Using iRules and Local Traffic Policies        |1           |460       |X   |X       |X       |
 
 ## Old and New Lab Names and SCF File Used
 
