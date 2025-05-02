@@ -1,5 +1,5 @@
 # set scf name
-SCF=match.scf
+SCF=MATCH.scf
 
 # download config from GitHub, copy to bigip1 and load/merge onto bigip1
 curl --silent https://raw.githubusercontent.com/learnf5/ltm/main/$SCF --output /tmp/$SCF
