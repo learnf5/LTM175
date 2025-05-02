@@ -74,3 +74,28 @@ Notes, build scripts, and associated files for the *Configuring BIG-IP LTM versi
 |                       | LTM-C4C07-DoS        | SYN       |
 | LTM175-C4C09-HEADER   | LTM-C4C09-SecApps    | MONITOR   |
 
+| New 17.5 Lab Number   | Old 17.1 Lab Number | Old 17.1 Lab Name                                                   | SCF File   |
+|-----------------------|---------------------|---------------------------------------------------------------------|------------|
+| LTM175-C1A02-LB       | LTM-C1A02-LoadBal   | Explore Load Balancing Behavior                                     |            |
+| LTM175-C1A04-STANDBY  | LTM-C1A04-PrioGrp   | Deploy Hot-Standby Servers in Local Traffic Pool                    |            |
+| LTM175-C1B05-SANDWICH | LTM-C1B05-VSPrec    | Test Virtual Server Order of Precedence                             |            |
+|                       | LTM-C1B08-FWSand    | Deploy and Monitor a Firewall Sandwich Scenario                     |            |
+| LTM175-C1C06-SNAT     | LTM-C1C06-SnatOrd   | Test SNAT Order of Precedence                                       |            |
+| LTM175-C2B13-MONITOR  | LTM-C2B13-Monitors  | Explore Local Traffic Health Monitors                               | MONITOR    |
+| LTM175-C2C04-HTTP     | LTM-C2C04-HttpMon   | Deploy a Custom HTTP Monitor and Explore Using Regular Expressions  | HTTP       |
+|                       | LTM-C2C07-Ftp       | Deploy Custom FTP Application Check Monitor                         |            |
+| LTM175-C3C02-XFF      | LTM-C3C02-XffHdr    | Configure an HTTP Profile to Insert an X-Forwarded-For (XFF) Header | MONITOR    |
+|                       | LTM-C3C05-ComprOff  | Observe HTTP Compression Offload Behavior                           |            |
+| LTM175-C3C09-STREAM   | LTM-C3C09-Stream    | Modify Payload Content Using the Stream Profile                     | MONITOR    |
+|                       | LTM-C3C11-Ftp       | Load Balance an FTP Application                                     |            |
+| LTM175-C3D02-MATCH    | LTM-C3D02-MatchPer  | Observe Persistence Match Across Options                            | MATCH      |
+|                       | LTM-C3D04-CookPer   | Explore Cookie Persistence Behavior                                 | MONITOR    |
+|                       | LTM-C3D06-UnivPer   | Implement Universal Persistence                                     | UNIVERSAL  |
+| LTM175-C4A03-IRULES   | LTM-C4A03-iRules    | Use iRules to Manage Local Traffic Flow                             |            |
+|                       | LTM-C4A05-TSiRules  | Troubleshoot an iRule Using the Rule Profiler                       |            |
+| LTM175-C4B05-LOCAL    | LTM-C4B05-LTP       | Use Local Traffic Policies to Manage Traffic Flow                   |            |
+| LTM175-C4C03-SYN      | LTM-C4C03-SynCheck  | Mitigate a SYN Flood Attack with the BIG-IP LTM SYN Check Feature   | SYN        |
+|                       | LTM-C4C05-Filter    | Explore Packet Filter Behavior                                      | MATCH      |
+|                       | LTM-C4C07-DoS       | Mitigate a Layer 7 DoS Attack Using a BIG-IP LTM Eviction Policy    | SYN        |
+| LTM175-C4C09-HEADER   | LTM-C4C09-SecApps   | Secure HTTP Headers Using iRules and Local Traffic Policies         | MONITOR    |
+
