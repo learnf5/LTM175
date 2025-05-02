@@ -47,32 +47,7 @@ Notes, build scripts, and associated files for the *Configuring BIG-IP LTM versi
 |                       |Mitigate a Layer 7 DoS Attack Using a BIG-IP LTM Eviction Policy   |            |          |    |        |        |
 |LTM175-C4C09-HEADER    |Secure HTTP Headers Using iRules and Local Traffic Policies        |1           |460       |X   |X       |X       |
 
-## Old and New Lab Names and SCF File Used
-
-| New 17.5 Lab Number   | Old 17.1 Lab Number  | SCF File  |
-|-----------------------|----------------------|-----------|
-| LTM175-C1A02-LB       | LTM-C1A02-LoadBal    |           |
-| LTM175-C1A04-STANDBY  | LTM-C1A04-PrioGrp    |           |
-| LTM175-C1B05-SANDWICH | LTM-C1B05-VSPrec     |           |
-|                       | LTM-C1B08-FWSand     |           |
-| LTM175-C1C06-SNAT     | LTM-C1C06-SnatOrd    |           |
-| LTM175-C2B13-MONITOR  | LTM-C2B13-Monitors   | MONITOR   |
-| LTM175-C2C04-HTTP     | LTM-C2C04-HttpMon    | HTTP      |
-|                       | LTM-C2C07-Ftp        |           |
-| LTM175-C3C02-XFF      | LTM-C3C02-XffHdr     | MONITOR   |
-|                       | LTM-C3C05-ComprOff   |           |
-| LTM175-C3C09-STREAM   | LTM-C3C09-Stream     | MONITOR   |
-|                       | LTM-C3C11-Ftp        |           |
-| LTM175-C3D02-MATCH    | LTM-C3D02-MatchPer   | MATCH     |
-|                       | LTM-C3D04-CookPer    | MONITOR   |
-|                       | LTM-C3D06-UnivPer    | UNIVERSAL |
-| LTM175-C4A03-IRULES   | LTM-C4A03-iRules     |           |
-|                       | LTM-C4A05-TSiRules   |           |
-| LTM175-C4B05-LOCAL    | LTM-C4B05-LTP        |           |
-| LTM175-C4C03-SYN      | LTM-C4C03-SynCheck   | SYN       |
-|                       | LTM-C4C05-Filter     | MATCH     |
-|                       | LTM-C4C07-DoS        | SYN       |
-| LTM175-C4C09-HEADER   | LTM-C4C09-SecApps    | MONITOR   |
+## Old and New Lab Numbers, Old Lab Name and SCF File Used in New Lab
 
 | New 17.5 Lab Number   | Old 17.1 Lab Number | Old 17.1 Lab Name                                                   | SCF File   |
 |-----------------------|---------------------|---------------------------------------------------------------------|------------|
