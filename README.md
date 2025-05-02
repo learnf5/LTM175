@@ -51,11 +51,11 @@ Notes, build scripts, and associated files for the *Configuring BIG-IP LTM versi
 | LTM175-C2C04-HTTP        | LTM-C2C04-HttpMon   | Deploy a Custom HTTP Monitor and Explore Using Regular Expressions  | HTTP       |
 | *above includes this &rarr;* | LTM-C2C07-Ftp       | Deploy Custom FTP Application Check Monitor                         |            |
 | LTM175-C3C02-XFF         | LTM-C3C02-XffHdr    | Configure an HTTP Profile to Insert an X-Forwarded-For (XFF) Header | MONITOR    |
-| *consolidated with prev* | LTM-C3C05-ComprOff  | Observe HTTP Compression Offload Behavior                           |            |
+| *above includes this lab:* | LTM-C3C05-ComprOff  | Observe HTTP Compression Offload Behavior                           |            |
 | LTM175-C3C09-STREAM      | LTM-C3C09-Stream    | Modify Payload Content Using the Stream Profile                     | MONITOR    |
-| *consolidated with prev* | LTM-C3C11-Ftp       | Load Balance an FTP Application                                     |            |
+| *consolidated* | LTM-C3C11-Ftp       | Load Balance an FTP Application                                     |            |
 | LTM175-C3D02-MATCH       | LTM-C3D02-MatchPer  | Observe Persistence Match Across Options                            | MATCH      |
-| *consolidated with prev* | LTM-C3D04-CookPer   | Explore Cookie Persistence Behavior                                 | MONITOR    |
+| *consolidated* | LTM-C3D04-CookPer   | Explore Cookie Persistence Behavior                                 | MONITOR    |
 | *consolidated with prev* | LTM-C3D06-UnivPer   | Implement Universal Persistence                                     | UNIVERSAL  |
 | LTM175-C4A03-IRULES      | LTM-C4A03-iRules    | Use iRules to Manage Local Traffic Flow                             |            |
 | *consolidated with prev* | LTM-C4A05-TSiRules  | Troubleshoot an iRule Using the Rule Profiler                       |            |
