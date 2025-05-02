@@ -35,7 +35,8 @@ Notes, build scripts, and associated files for the *Configuring BIG-IP LTM versi
 |-----------------------|-------------------------------------------------------------------|-----------:|---------:|:--:|:------:|:------:|
 |LTM175-C1A02-LB        |Explore Load Balancing Behavior                                    |1           |100       |X   |X       |X       |
 |LTM175-C1A04-STANDBY   |Deploy Hot-Standby Servers in Local Traffic Pool                   |1           |120       |X   |X       |X       |
-|LTM175-C1B08-SANDWICH  |Test...<br/>Deploy and Monitor a Firewall Sandwich Scenario                    |1           |140       |X   |X       |X       |
+|LTM175-C1B08-SANDWICH  |Test...<br/>\
+                         Deploy and Monitor a Firewall Sandwich Scenario                    |1           |140       |X   |X       |X       |
 |LTM175-C1C06-SNAT      |Test SNAT Order of Precedence                                      |1           |140       |X   |X       |X       |
 |LTM175-C2B13-MONITOR   |Explore Local Traffic Health Monitors                              |1           |200       |X   |X       |X       |
 |LTM175-C2C04-CUSTOM    |Deploy a Custom HTTP Monitor and Explore Using Regular Expressions |1           |200       |X   |X       |X       |
