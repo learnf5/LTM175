@@ -45,7 +45,7 @@ Notes, build scripts, and associated files for the *Configuring BIG-IP LTM versi
 | LTM175-C1A02-LB          | LTM-C1A02-LoadBal   | Explore Load Balancing Behavior                                     |            |
 | LTM175-C1A04-STANDBY     | LTM-C1A04-PrioGrp   | Deploy Hot-Standby Servers in Local Traffic Pool                    |            |
 | LTM175-C1B05-SANDWICH    | LTM-C1B05-VSPrec    | Test Virtual Server Order of Precedence                             |            |
-| *consolidated with prev* | LTM-C1B08-FWSand    | Deploy and Monitor a Firewall Sandwich Scenario                     |            |
+| *above includes this==>* | LTM-C1B08-FWSand    | Deploy and Monitor a Firewall Sandwich Scenario                     |            |
 | LTM175-C1C06-SNAT        | LTM-C1C06-SnatOrd   | Test SNAT Order of Precedence                                       |            |
 | LTM175-C2B13-MONITOR     | LTM-C2B13-Monitors  | Explore Local Traffic Health Monitors                               | MONITOR    |
 | LTM175-C2C04-HTTP        | LTM-C2C04-HttpMon   | Deploy a Custom HTTP Monitor and Explore Using Regular Expressions  | HTTP       |
