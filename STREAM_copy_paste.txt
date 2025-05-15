@@ -1,0 +1,7 @@
+Exercise 1: Modify Payload Content Using the Stream Profile
+
+Note: each of the target strings below are a single line of text.
+
+Step 12: Target string = @Server 1@Node 1@ @Server 2@Node 2@ @Server 3@Node 3@ @F5 Training Services@F5 LTM Stream Lab@
+
+Step 14: Target string = @\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}@0.0.0.0@ @Server 1@Node 1@ @Server 2@Node 2@ @Server 3@Node 3@ @F5 Training Services@F5 LTM Stream Lab@
