@@ -1,0 +1,15 @@
+Exercise 2: Implement Universal Persistence
+Step # 12
+
+when HTTP_REQUEST {
+    if {[HTTP::query] contains "user="} {
+        # Extract the "user" query parameter
+        set user_value [URI::decode [findstr [HTTP::query] "user=" 5 "&"]]
+        
+        # Check if the extracted value is not empty
+        if {$user_value ne ""} {
+            # Persist based on the user value
+            persist uie $user_value
+        }
+    }
+}
